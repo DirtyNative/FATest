@@ -1,0 +1,10 @@
+C:\Users\Martin\ownCloud\Programming\FATest\FATestShared\FATestShared\FATestShared\bin\Debug\netstandard2.0\FATestShared.deps.json
+C:\Users\Martin\ownCloud\Programming\FATest\FATestShared\FATestShared\FATestShared\bin\Debug\netstandard2.0\FATestShared.dll
+C:\Users\Martin\ownCloud\Programming\FATest\FATestShared\FATestShared\FATestShared\bin\Debug\netstandard2.0\FATestShared.pdb
+C:\Users\Martin\ownCloud\Programming\FATest\FATestShared\FATestShared\FATestShared\obj\Debug\netstandard2.0\FATestShared.csproj.CoreCompileInputs.cache
+C:\Users\Martin\ownCloud\Programming\FATest\FATestShared\FATestShared\FATestShared\obj\Debug\netstandard2.0\FATestShared.App.xaml.g.cs
+C:\Users\Martin\ownCloud\Programming\FATest\FATestShared\FATestShared\FATestShared\obj\Debug\netstandard2.0\FATestShared.AssemblyInfoInputs.cache
+C:\Users\Martin\ownCloud\Programming\FATest\FATestShared\FATestShared\FATestShared\obj\Debug\netstandard2.0\FATestShared.AssemblyInfo.cs
+C:\Users\Martin\ownCloud\Programming\FATest\FATestShared\FATestShared\FATestShared\obj\Debug\netstandard2.0\FATestShared.dll
+C:\Users\Martin\ownCloud\Programming\FATest\FATestShared\FATestShared\FATestShared\obj\Debug\netstandard2.0\FATestShared.pdb
+C:\Users\Martin\ownCloud\Programming\FATest\FATestShared\FATestShared\FATestShared\obj\Debug\netstandard2.0\FATestShared.csprojResolveAssemblyReference.cache

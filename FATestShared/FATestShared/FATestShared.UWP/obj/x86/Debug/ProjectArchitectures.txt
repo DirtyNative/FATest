@@ -1,0 +1,1 @@
+C:\Users\Martin\ownCloud\Programming\FATest\FATestShared\FATestShared\FATestShared.UWP\FATestShared.UWP.csproj;x86

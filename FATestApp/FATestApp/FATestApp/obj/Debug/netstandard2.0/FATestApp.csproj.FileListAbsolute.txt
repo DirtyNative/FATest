@@ -1,0 +1,12 @@
+C:\Users\Martin\ownCloud\Programming\FATest\FATestApp\FATestApp\FATestApp\bin\Debug\netstandard2.0\FATestApp.deps.json
+C:\Users\Martin\ownCloud\Programming\FATest\FATestApp\FATestApp\FATestApp\bin\Debug\netstandard2.0\FATestApp.dll
+C:\Users\Martin\ownCloud\Programming\FATest\FATestApp\FATestApp\FATestApp\bin\Debug\netstandard2.0\FATestApp.pdb
+C:\Users\Martin\ownCloud\Programming\FATest\FATestApp\FATestApp\FATestApp\obj\Debug\netstandard2.0\FATestApp.csprojResolveAssemblyReference.cache
+C:\Users\Martin\ownCloud\Programming\FATest\FATestApp\FATestApp\FATestApp\obj\Debug\netstandard2.0\FATestApp.csproj.CoreCompileInputs.cache
+C:\Users\Martin\ownCloud\Programming\FATest\FATestApp\FATestApp\FATestApp\obj\Debug\netstandard2.0\FATestApp.App.xaml.g.cs
+C:\Users\Martin\ownCloud\Programming\FATest\FATestApp\FATestApp\FATestApp\obj\Debug\netstandard2.0\FATestApp.MainPage.xaml.g.cs
+C:\Users\Martin\ownCloud\Programming\FATest\FATestApp\FATestApp\FATestApp\obj\Debug\netstandard2.0\FATestApp.AssemblyInfoInputs.cache
+C:\Users\Martin\ownCloud\Programming\FATest\FATestApp\FATestApp\FATestApp\obj\Debug\netstandard2.0\FATestApp.AssemblyInfo.cs
+C:\Users\Martin\ownCloud\Programming\FATest\FATestApp\FATestApp\FATestApp\obj\Debug\netstandard2.0\FATestApp.dll
+C:\Users\Martin\ownCloud\Programming\FATest\FATestApp\FATestApp\FATestApp\obj\Debug\netstandard2.0\FATestApp.pdb
+C:\Users\Martin\ownCloud\Programming\FATest\FATestApp\FATestApp\FATestApp\bin\Debug\netstandard2.0\Assets\Fonts\fontawesome-webfont.ttf

@@ -1,0 +1,1 @@
+C:\Users\Martin\ownCloud\Programming\FATest\FATestApp\FATestApp\FATestApp.UWP\FATestApp.UWP.csproj;arm
