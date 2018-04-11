@@ -9,11 +9,13 @@ namespace FATestApp
 {
 	public partial class MainPage : ContentPage
 	{
-	    public string FaIcon { get; set; } = "\uf013";
+	    public string FaIcon { get; set; } = "\uf018";
         
         public MainPage()
 		{
 			InitializeComponent();
+
+		    this.BindingContext = this;
 		}
 	}
 }

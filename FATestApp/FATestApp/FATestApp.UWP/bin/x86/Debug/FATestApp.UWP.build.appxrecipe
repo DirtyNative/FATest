@@ -538,9 +538,6 @@
     <AppxPackagedFile Include="C:\Users\Martin\ownCloud\Programming\FATest\FATestShared\FATestShared\FATestShared\bin\Debug\netstandard2.0\FATestShared.dll">
       <PackagePath>FATestShared.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Martin\ownCloud\Programming\FATest\FATestApp\FATestApp\FATestApp.UWP\Assets\Fonts\fontawesome-webfont.ttf">
-      <PackagePath>Assets\Fonts\fontawesome-webfont.ttf</PackagePath>
-    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Martin\ownCloud\Programming\FATest\FATestApp\FATestApp\FATestApp.UWP\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
     </AppxPackagedFile>
